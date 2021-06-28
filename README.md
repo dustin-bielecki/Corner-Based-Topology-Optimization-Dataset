@@ -1,6 +1,6 @@
 # Corner-Based-Topology-Optimization-Dataset
 
-General information:
+GENERAL INFORMATION:
 
 This contains the dataset used for the SAMO journal paper: "Multi-stage deep neural network accelerated topology optimization"
 
