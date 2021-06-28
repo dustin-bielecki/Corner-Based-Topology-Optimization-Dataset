@@ -8,7 +8,8 @@ There are sets of inputs and outputs. The inputs represent the boundary conditio
 
 The results are separated into 2D and 3D.
 
-\\
+
+
 INPUTS:
 
 For 2D the naming convention is "inputs_XX.mat", where XX represents the domain density (30 = 0.30). The first column represents the density and columns 2 through 6 are the displacement inputs.
@@ -16,7 +17,8 @@ For 2D the naming convention is "inputs_XX.mat", where XX represents the domain 
 For 3D the naming convention is "inputs_XX_Y.mat", where XX represents the domain density (30 = 0.30) and Y is the index number. The files were split due to filesize constraints.
 The first column represents the density and columns 2 through 19 are the displacement inputs.
 
-\\
+
+
 OUTPUS:
 
 All output files have similar naming conventions as the input files.
